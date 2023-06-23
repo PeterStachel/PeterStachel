@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PeterStachel
-- 👀 I’m interested in front-end coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a small website
+- 👋 Hi, I’m @PeterStachel, 24 years old/young + Workaholic
+- 👀 I’m interested in front-end developing & so much other stuff
+- 🌱 I’m self-educated and currently on focused learning JavaScript
 - 📫 How to reach me peter.stachel23@gmail.com
 
 <!---
